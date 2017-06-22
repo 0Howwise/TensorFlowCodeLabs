@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\howwi\tensorflow-style-transfer-android\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\howwi\tensorflow-style-transfer-android\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1f708dc0a92f2e9b86462c627a40a3c938acffdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\howwi\tensorflow-style-transfer-android\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eaba7bc19d8e080de87d1dec66947bf575e5df69">
+        <dex dex="C:\Users\howwi\tensorflow-style-transfer-android\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cdf09751c2b583739e055848ef7a3d0f21611343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\howwi\.android\build-cache\241425f641ce1157bb2ad09cb54212052ed6db62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="C:\Users\howwi\tensorflow-style-transfer-android\android\build\intermediates\transforms\dex\debug\folders\1000\10\classes_267223107454307f1ff0772c78e8774b33f0b46d\classes.dex" />
+    </item>
+
+</items>
